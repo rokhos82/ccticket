@@ -25,7 +25,7 @@ This is a custom IT work ticket web app for Converse County Government.  The mai
   - [ ] Work Queues - allow technicians to pull a ticket from the wait pool to their specific work pool.
 - [ ] IT Admin Accounts - elevated privleges for the IT administrator.
   - [ ] Assign tickets to technicians
-  - [ ] 
+  - [ ] See recently closed tickets for all technicians
 
 # Ticket Information
 - [ ] User ID

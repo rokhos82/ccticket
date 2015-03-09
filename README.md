@@ -19,9 +19,19 @@ This is a custom IT work ticket web app for Converse County Government.  The mai
   - [ ] Reopen a closed ticket in the event that the work was not completed satisfactorally.
 - [ ] IT Technician Accounts - have a unique login for each IT department employee.
   - [ ] Add notes to a ticket
+  - [ ] Send message to end user
   - [ ] Change status of a ticket
   - [ ] Close a ticket
   - [ ] Work Queues - allow technicians to pull a ticket from the wait pool to their specific work pool.
 - [ ] IT Admin Accounts - elevated privleges for the IT administrator.
-  - [ ]
-- [ ] Reports
+  - [ ] Assign tickets to technicians
+  - [ ] 
+
+# Ticket Information
+- [ ] User ID
+- [ ] Requested Completion Date
+- [ ] Priority
+- [ ] Description
+- [ ] Category - Hardware, Software, etc.
+- [ ] Assest
+- [ ] Status - Open/In Progress/Closed
